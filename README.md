@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ProxyBuilder/proxybuilder.png?label=ready&title=Ready)](https://waffle.io/ProxyBuilder/proxybuilder)
 # Welcome to ProxyBuilder
 
 [![](https://build.rapidpm.org/app/rest/builds/buildType:id:RapidPM_Develop_ProxyBuilder_Snapshot/statusIcon)](https://build.rapidpm.org/viewType.html?buildTypeId=RapidPM_Develop_ProxyBuilder_Snapshot&guest=1)
